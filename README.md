@@ -1,2 +1,3 @@
-# C0deAlpha
+# Fitness tracker app
+
 task 3
